@@ -1,0 +1,7 @@
+Credits and license of the downloaded data.
+        
+        
+        Data by OpenStreetMap® is open data (https://www.openstreetmap.org/) Licensed Under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF) (https://opendatacommons.org/licenses/odbl/) 
+
+
+            
